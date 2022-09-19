@@ -13,13 +13,13 @@ Config.Pawnshop = {
         items = {
             ['bread'] = 1000
         },
-        jobs = {'police'}
+        jobs = {} -- Available to All
     },
     {
         coords = vec3(314.195,-1385.678,31.90),
         items = {
             ['bread'] = 1000
         },
-        jobs = {'police'}
+        jobs = {'police','ambulance'}
     },
 }
